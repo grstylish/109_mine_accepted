@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "342733497679",
+    "project_id": "aktobe109",
+    "storage_bucket": "aktobe109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342733497679:android:ed83a973c5b1540797d13a",
+        "android_client_info": {
+          "package_name": "kz.slidthech.aktobe109"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342733497679-mglasnd9tpgg8umpcrecce2hbu2k3n5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0XZNkq7xEomzbELuLOI9h11O7ruWjUNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342733497679-mglasnd9tpgg8umpcrecce2hbu2k3n5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

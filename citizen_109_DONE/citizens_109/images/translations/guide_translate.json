@@ -1,0 +1,71 @@
+{
+    "rus": {
+        "chooseDirectory": "ВЫБЕРИТЕ СПРАВОЧНИК",
+        "changeDirectory": "ИЗМЕНИТЬ СПРАВОЧНИК",
+        "nameDirectoryKsk": "СПРАВОЧНИК КСК", 
+        "nameDirectoryGu": "СПРАВОЧНИК ГУ", 
+        "chooseStreet": "Выберите улицу/микрорайон",
+        "chooseStreetNumber": "Выберите номер дома",
+        "findKsk": "НАЙТИ МОЙ КСК",
+        "nameKsk": "Наименование КСК",
+        "addressKsk": "Адрес",
+        "phoneKsk": "Телефон",
+        "nameGu": "Наименование", 
+        "boss": "Руководитель",
+        "call": "Позвонить",
+        "name109": "109 - Актобе",
+        "nameApteka": "АПТЕКА",
+        "saleType": "Вид продажи",
+        "contact": "Контакты",
+        "chooseNamePharmacy": "Выберите название аптеки",
+        "choosePharmacyAddress": "Выберите адрес аптеки",
+        "findPharmacy": "НАЙТИ",
+        "guideLift": "СПРАВОЧНИК ЛИФТ",
+        "guideHospital": "СПРАВОЧНИК ПОЛИКЛИНИКА",
+        "chooseHospitalName": "Выберите название поликлиники",
+        "chooseguidekindername": "Выберите название детского сада",
+        "guidekinder": "СПРАВОЧНИК ДЕТСКИЙ САД",
+        "guideAddEducation": "СПРАВОЧНИК ДОП.ОБРАЗОВАНИЕ",
+        "guideSchool": "СПРАВОЧНИК ШКОЛА",
+        "chooseguideSchoolName": "Выберите название школы",
+        "error": "Ошибка"
+
+
+
+
+    },
+    "kaz": {
+        "chooseDirectory": "АНЫҚТАМАНЫ ТАҢДАУ",
+        "changeDirectory": "АНЫҚТАМАНЫ ӨЗГЕРТУ",
+        "nameDirectoryKsk": "ПИК АНЫҚТАМА", 
+        "nameDirectoryGu": " ММ АНЫҚТАМА", 
+        "chooseStreet": "Көшені/шағын ауданды таңдаңыз",
+        "chooseStreetNumber": "Үй нөмірін таңдаңыз",
+        "findKsk": "ӨЗ ПИК-ІМДІ ТАБУ",
+        "nameKsk": "ПИК атауы",
+        "addressKsk": "Мекенжайы",
+        "phoneKsk": "Телефон нөмірі",
+        "nameGu": "Аты", 
+        "boss": "Басшысы",
+        "call": "Қоңырау шалу",
+        "name109": "109 - Ақтөбе",
+        "nameApteka": "ДӘРІХАНА",
+        "saleType": "Сату түрі",
+        "contact": "Контакттар",
+        "chooseNamePharmacy": "Дәріхананың атауын таңдаңыз",
+        "choosePharmacyAddress": "Дәріхананың мекен-жайын таңдаңыз",
+        "findPharmacy": "ТАБУ",
+        "guideLift": "ЛИФТ АНЫҚТАМА",
+        "guideHospital": "ПОЛИКЛИНИКА АНЫҚТАМА",
+        "chooseHospitalName": "Емхананың атауын таңдаңыз",
+        "chooseguidekindername": "Балабақшаның атауын таңдаңыз",
+        "guidekinder": "БАЛАБАҚША АНЫҚТАМА",
+        "guideAddEducation": "ҚОСЫМША БІЛІМ АНЫҚТАМА ",
+        "guideSchool": "МЕКТЕП АНЫҚТАМА",
+        "chooseguideSchoolName": "Мектептің атауын таңдаңыз",
+        "error": "Қате"
+
+
+
+    }
+}
